@@ -1,0 +1,348 @@
+/** Reset **/
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	color: Black;
+	background-color: White;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 10px;
+	font-size: 90%;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: left;
+}
+.Individual {
+	font-size: 130%;
+	font-weight: bold;
+	font-family: Georgia, serif;
+	text-align: center;
+}
+.Spouse {
+	font-size: 110%;
+	font-family: Georgia, serif;
+	text-align: center;
+	padding-bottom: 1.5px;
+}
+.Parent {
+	font-size: 100%;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;	
+}
+.GrandParent {
+	font-size: 100%;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;	
+}
+.Child {
+	font-size: 80%;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;	
+}
+.ChildLifeDetails {
+	font-size: 80%;
+	text-align: center;	
+}
+.ChildListName {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}
+.ChildListDetails {
+		font-size: 13px;
+	text-align: center;
+}
+.ChildListMarriage {
+		font-size: 12px;
+	font-weight: bold;
+	line-height: 180%;
+	margin-left: 20px;
+}
+.LifeDetails {
+	font-size: 80%;
+	text-align: center;
+}
+.IndivLifeDetails {
+	font-size: 80%;
+	line-height: 120%;
+	text-align: center;
+	margin-top: -15px;
+}
+
+.NoteTitle {
+	font-size: 80%;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.IndividualNotes {
+	font-size: 80%;
+	line-height: 130%;
+	text-align: left;
+}
+
+/* spacing between paragraphs p in notes */
+
+p.IndividualNotes {
+	margin-bottom: 10px;
+}
+.IndivNoteWidth {
+	width: 1024px;
+}
+
+.ChildNoteTitle {
+	font-size: 13px;
+	font-weight: bold;	
+}
+.ChildNotes {
+	font-size: 12px%;
+		
+}
+
+.MarriageText {
+	font-size: 80%;
+	font-weight: bold;
+	text-align: center;
+}
+
+/*** Child List ***/
+
+#ChildList {
+	
+}
+#ChildList .Child .LifeDetails .Marriage .Spouse {
+	text-align: left;
+}
+
+#ParentNote {
+	
+}
+#Copyright {
+	
+}
+#HeaderTop {
+	
+}
+#HeaderBottom {
+	
+}
+#Navigation {
+	
+}
+#footermenu {
+	
+}
+
+
+h1 {
+	font-weight: bold;
+	font-size: medium;
+	text-align: center;	
+}
+
+h2 {
+	font-weight: bold;
+	font-size: medium;
+	text-align: center;
+	margin-top: -5px;
+	margin-bottom: 5px;
+}
+h2.emphasis {
+	font-style: italic;
+}
+hr {
+	height: 1px;
+}
+.endsection_hr {
+	width: 600px;
+	height: 2px;
+	color: Black;
+}
+.ref_hr {
+	width: 600px;
+	color: #5F9EA0;
+	/** margin-top: 5px; **/
+}
+p {
+  margin: 0 0 0 0;
+  padding: 0;
+}
+.note_heading {
+	font-weight: bold;
+}
+
+.main_notes {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 13px;
+	text-align: justify;
+	margin: 0 30px 0 30px ;
+}
+.child_notes {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 13px;
+/*	text-align: justify; */
+	margin: 0 10px 0 07px ;
+}
+.child_marriage {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 13px;
+/*	text-align: justify; */
+	margin: 1px 10px 00px 0px ;
+}
+
+.source_page_heading {
+	font-family: Verdana, Arial, sans-serif;
+	/** font-size: larger;  **/
+	font-weight: bolder;
+	margin: 12px 0 12px 0;
+}
+.footnote_area {
+	margin: 0 0 0 22px;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: xx-small;
+	/** color: #770000; **/
+	/** color: #696969;  **/
+}
+.footnote_heading {
+	/** font-size: larger;  **/
+	font-weight: bolder;
+	/** color: #556B2F;  **/
+	/** margin-right: 300px; **/
+}
+.footnote_text{
+	/** background: #FAFAF3; **/
+	/**background: #FAFAF3;  **/
+	padding: 5px 0 15px 0;
+	width: 600px;
+	border-top: thin solid Gray;
+	padding: 5px 0 15px 0;
+}
+.ref_footnote {
+}
+.ref_footnote_color {
+	color: Red;
+}
+.ref_sourcename {
+	/** font-weight: bolder;  **/
+	margin-left: 5px;
+	font-weight: bolder;
+}
+.ref_sourcename_repeated {
+	/** font-weight: bolder; **/
+	margin-left: 0px;
+	font-weight: bolder;
+}
+.ref_sourcepubl {
+	margin-left: 2px;
+}
+.ref_reponame {
+	font-weight: normal;
+	margin-left: 2px;
+}
+.ref_page {
+	margin-left: 2px;
+}
+.ref_title {
+	margin-left: 2px;
+	font-weight: bolder;
+}
+.ref_callno {
+	margin: 0 0 10px 10px;
+}
+.ref_text {
+	font-style: italic;
+	margin: 5 0 10 2px;
+}
+.keyword {
+	font-weight: bold;
+}
+UL.bulleted {
+	list-style-image: url(../images/bullet_blue.gif);
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+#top {
+  margin: 0 0 0 0;
+  padding: 0;
+  text-align: center;
+}
+#banner {
+	margin-top: 8px;
+	margin-bottom: 5px;
+}	
+#bottom {
+	margin-top: 8px;
+	text-align: center;
+}
+}
+#menu {
+    background-color: white;
+    font-family: Tahoma,Arial,Helvetica,Sans;
+    font-size: 14px;
+    color: #ffffff;
+}
+#menu div.top {
+    padding-top: 1px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    padding-right: 8px;
+    color: #0000cc;
+    width: 100%;
+}
+#menu div.section {
+    position: absolute;
+    display: inline;
+    z-index: -1;
+}
+#menu div.box {
+    background-color: #0000cc;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-color: white;
+    border-width: 3px;
+    border-style: none solid solid solid;
+
+    position: relative;
+    visibility: hidden;
+    width: 100%;
+}
+#menu a {
+    font-family: Tahoma,Arial,Helvetica,Sans;
+    font-size: smaller;
+    font-weight: normal;
+    color: #ffffff;
+    text-decoration: none;
+    white-space: nowrap;
+}
+#menu a:hover {
+    font-family: Tahoma,Arial,Helvetica,Sans;
+    font-size: smaller;
+    font-weight: normal;
+    color: yellow;
+    text-decoration: none;
+    white-space: nowrap;
+
+}
+
+/** styling for source list page **/
+
+.source_page_source {
+	margin-bottom: 1em;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	}
+
+.source_page_source_name {
+
+	font-weight: bold;
+	
+}
+.source_page_source_source {
+		margin-left: 2em;
+}
+.source_page_source_repository {
+		margin-left: 2em;
+}

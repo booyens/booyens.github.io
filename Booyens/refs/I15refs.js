@@ -1,0 +1,1 @@
+ref1 = "1&nbsp;<b>Cape Archives</b><br>Verbatim Copies VC39 - Drakenstein Muster Roll 1692 p.121<br><i>Blondi Marret en Maria Avis 2k. </i><br>[\"Claude\" must have sounded like \"Blondi\" to whoever compiled the Muster Roll] "

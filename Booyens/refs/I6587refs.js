@@ -1,0 +1,2 @@
+ref1 = "1&nbsp;<b>Transvaal Archives</b><br>TAB MHG Vol.0 Ref. O/3763A Booyens, Judith Susara Margaretha 1887-1887 Nagelate eggenoot Barend Pieter Booyens<br>She died at age 27 on 15.10.1887.<br>By implication she was born ca. 1860"
+ref2 = "2&nbsp;<b>Transvaal Archives</b><br>TAB MHG Vol.0 Ref. O/3763A Booyens, Judith Susara Margaretha 1887-1887 Nagelate eggenoot Barend Pieter Booyens<br><br><br>ONLINE: https://familysearch.org/ark:/61903/3:1:3Q9M-CS92-CS5W-8 "

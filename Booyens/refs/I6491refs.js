@@ -1,0 +1,1 @@
+ref1 = "1&nbsp;<b>Dutch Reformed Church Registers (LDS on WWW)</b><br>Baptism Index 1855-1875 A-C<br>NAAM: Carolina Christina Wilhelmnina<br>DATUM: 17.6.1854<br>PLEK: Prins Albert<br>BOEK: 29<br>BLADSY: 336<br><br>ONLINE: https://familysearch.org/ark:/61903/3:1:33S7-9Y4D-R2G "
